@@ -1,0 +1,248 @@
+.container {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    border-color: black;
+    background-color: white;
+    margin-top: 150px;
+}
+
+.header {
+    align-items: center;
+}
+
+.header img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 90px;
+}
+
+.button {
+    width: 300px;
+    height: 30px;
+    border-color: 1px gray;
+}
+
+.haha {
+    width: 300px;
+    height: 30px;
+    
+    border-color: 1px gray;
+}
+
+.knee {
+    font: bold;
+    width: 310px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+    color:white;
+    background-color: blue;
+    text-align: center;
+    padding: 8px 95px;
+    display: flex;
+}
+
+a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: blue;
+}
+
+p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gah {
+    font: bold;
+    width: 310px;
+    height: 30px;
+    border: none;
+    cursor: pointer;
+}
+
+.bank {
+    width: 300px;
+    height: 30px;
+    border-color: 10x gray;
+}
+
+.p {
+    align-items: center;
+    justify-content: center;
+    margin-top: 280px;
+    font: bold;
+}
+
+.n {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.klklk {
+    width: 60px;
+    height: 20px;
+    margin: 2px;
+    cursor: pointer;
+    padding: 0px;
+    text-align: center;
+    align-items: center;
+    z-index: 50;
+}
+
+.nkmkmkmk {
+    width: 60px;
+    height: 20px;
+    color: white;
+    background-color: deepskyblue;
+    border: none;
+    cursor: pointer;
+}
+
+.header1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header1 li{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    color: rgb(174, 169, 169);
+    margin-right: 100px;
+}
+
+.header1 {
+    gap:380px;
+    height: 80px;
+    background-color: rgb(228, 221, 221);
+}
+
+.box {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+}
+
+.box  img{
+    width: 100px;
+    border-radius: 50px;
+    margin-left: -1300px;
+    
+}
+
+.nnn img {
+    position: relative;
+    padding: 10px;
+    top: -80px; /* Adjust this value to move the image up */
+    left: 80%; /* Adjust this value if you want to move the image horizontally */
+    width: 50px;
+}
+
+.box h5 {
+    margin-left: 5px;
+    font-size: 18px;
+}
+
+.l li {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    color: rgb(30, 29, 29);
+    margin-right: 100px;
+    position: relative;
+    padding: 10px;
+    top: -130px; /* Adjust this value to move the image up */
+    left: 85%; /* Adjust this value if you want to move the image horizontally */
+    width: 50px;
+}
+
+.flex-container {
+    width: 400px;
+    height: 320px;
+    background-color: rgb(203, 203, 203);
+    display: flex;
+    flex-direction: column; /* Stack items vertically */
+    align-items: center; /* Center items horizontally */
+    text-align: center; /* Center text within each item */
+    margin-top: -70px;
+}
+
+.flex-container h5 {
+    margin-top: 50px;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex-container h4{
+    font-size: 25px;
+    margin-top: -40px;
+}
+
+.flex-container p{
+    margin-top: -30px;
+}
+
+.right{
+    display: column;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+    background-color: rgb(220, 231, 240);
+    width: 800px;
+    margin-left: 30%;
+    margin-top: -21%;
+}
+
+.b {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    margin-left: 0%;
+    margin-top: -26%;
+}
+
+.a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    margin-left: 0%;
+}
+
+.f {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    margin-left: 0%;
+}
+
+.c {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    margin-left: 0%;
+}
+
+.q {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    margin-left: -0%;
+}
